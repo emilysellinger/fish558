@@ -67,8 +67,8 @@ minSSQ <- function(param_vect, Type = "Linear"){
 }
 
 # parameter vectors
-initial_alphas <- c()
-initial_betas <- c()
-initial_lambdas <- c()
+initial_alphas <- c(1,1,1)
+initial_betas <- c(1,1,1)
+initial_lambdas <- c(1,1,1)
 
-output_linear <- optim()
+

@@ -1,0 +1,27 @@
+# Number of years
+12
+# Years (data are for years 1-12 even though the model project goes to the start of year 13)
+1 2 3 4 5 6 7 8 9 10 11 12
+# Effort
+1 1 2 4 5 6 7 7 4 4 2 2
+# Egg counts
+242.8933 16.61516 24.2373 33.97915 80.7238 26.41164 14.20684 20.95122 19.33345 14.31906 29.51019 29.50451
+# SD of the log (Eggs)
+0.3
+# Adult counts
+0.8770643 1.266555 3.436145 3.917546 1.936197 1.25632 1.446007 1.302647 0.6265008 1.822367 0.6136693 3.142651
+# SDof the log (Adults)
+0.3
+# Interaction counts
+0.5435829 0.6952699 3.394334 7.276933 6.396515 2.703048 4.741598 4.206649 1.164046 5.19431 1.137836 1.238792
+# SD of the log (Interaction)
+0.3
+# Age Data
+# Number of years of age Data
+3
+# Years of Data
+2 5 10
+# The age data
+21 16 12 1
+38 2 10 0
+27 6 14 3
